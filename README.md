@@ -22,5 +22,7 @@ Clusterisation tasks:
  	- DBSCAN
   
   	- AgglomerativeClustering
+
+Time series with Holt and Exponential smoothing models
    
 To see all the graphs go https://nbviewer.org/github/dkorolyuk/ML/tree/master/
